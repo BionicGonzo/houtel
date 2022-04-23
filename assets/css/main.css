@@ -1,0 +1,61 @@
+body {
+  background-image: url("../img/background.jpg");
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  font-family: "Open Sans", sans-serif;
+}
+
+body main .titulo {
+  color: #FFFFFF;
+  text-align: center;
+}
+body main .titulo h2 {
+  font-size: 18px;
+  font-weight: 600;
+}
+body main .titulo h3 {
+  font-family: "Playfair Display", serif;
+  font-size: 130px;
+}
+
+body h1 {
+  font-size: 30px;
+  font-weight: 700;
+  padding: 40px 40px;
+  color: #FFFFFF;
+}
+
+body main .titulo .btn {
+  background-color: #44BBA4;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 10px 30px;
+  border-color: transparent;
+}
+body main .titulo .btn:hover {
+  background-color: #66C7B4;
+}
+body main .titulo .btn:focus {
+  background-color: #88D3C5;
+}
+body main .buscar .btn {
+  background-color: #E94F37;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+  padding: 5px 30px;
+  border-color: transparent;
+}
+body main .buscar .btn:hover {
+  background-color: #EF7F6D;
+}
+body main .buscar .btn:focus {
+  background-color: #F7BFB6;
+}
+
+/*# sourceMappingURL=main.css.map */

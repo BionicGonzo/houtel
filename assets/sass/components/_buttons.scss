@@ -1,0 +1,42 @@
+body {
+    main {
+        .titulo {
+            .btn {
+                background-color: #44BBA4;
+                color: white;
+                font-size: 18px;
+                font-weight: bold;
+                padding: 10px 30px;
+                border-color: transparent;
+            }
+        
+            .btn:hover {
+                background-color: #66C7B4;
+            }
+        
+            .btn:focus {
+                background-color: #88D3C5;
+            }
+        }
+        
+        .buscar {
+            .btn {
+                background-color: #E94F37;
+                color: white;
+                font-size: 18px;
+                font-weight: bold;
+                padding: 5px 30px;
+                border-color: transparent;
+            }
+        
+            .btn:hover {
+                background-color: #EF7F6D;
+            }
+        
+            .btn:focus {
+                background-color: #F7BFB6;
+            }
+        }
+
+    }
+}
